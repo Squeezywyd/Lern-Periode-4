@@ -8,12 +8,14 @@ Am Ende von der LP3 habe ich mir vorgenommen, zukünftig relativ ähnlich zu arb
 Neu: Ich bin sehr interessiert daran, mich in dieser Lern-Periode mit API zu beschäftigen und experimentieren.
 Ich habe mir überlegt eine URL-Verkürzer-API zu programmieren. Ich habe mich dafür entschieden, da ich denke dass eine solche Applikation bestimmt hilfreich sein kann und ich diese auch zukünftig verwenden werden kann.
 20.2.2024
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich mir überlegt was ich für ein Projekt in den nächsten 7 Wochen machen möchte. Ich bin gemeinsam mit Niclas und Mert auf die Idee ke^^gekommen, dass wir sehr gerne probieren würden etwas mit API zu machen aber jeweils unterschiedliche Projekte. Ich habe mich dazu entschieden, einen URL-Verkürzer in C# zu programmieren.
+Nach dem Planen habe ich jedoch für das Modul 164 an unserem LB gearbeitet. Da müssen wir Tabellen in SQL programmieren.
 
 27.2.2024
-[ ] Erstes Arbeitspaket
-[ ] ...
-[ ] Viertes AP
+[ ] Recherche was ich alles benötige um meinen URL-Verkürzer vorzubereiten (evt nuget pakete downloaden?)
+[ ] Planen was alles im Code vorhanden sein muss.
+[ ] Anfangen mit den ersten Zeilen von Code
+[ ] An meinem Modul 164 LB weiterarbeiten (Dokumentation)
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
 1				
 ...				
