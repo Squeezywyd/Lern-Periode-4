@@ -12,20 +12,30 @@ Heute habe ich mir überlegt was ich für ein Projekt in den nächsten 7 Wochen 
 Nach dem Planen habe ich jedoch für das Modul 164 an unserem LB gearbeitet. Da müssen wir Tabellen in SQL programmieren.
 
 27.2.2024
-[] Nach ergänzungen Recherchieren wie ich meinen Code ggf mit GUI in WInforms erweitern kann.
 
-[] Planen was alles im Code vorhanden sein muss.
+- [ ] Nach ergänzungen Recherchieren wie ich meinen Code ggf mit GUI in WInforms erweitern kann.
 
-[] Anfangen mit den ersten Zeilen von Code - Ziel, Benutzeringabe(URL) entgegennehmen können
+- [ ] Planen was alles im Code vorhanden sein muss.
 
-[] An meinem Modul 164 LB weiterarbeiten (Dokumentation)
+- [ ] Anfangen mit den ersten Zeilen von Code - Ziel, Benutzeringabe(URL) entgegennehmen können
+
+- [ ] An meinem Modul 164 LB weiterarbeiten (Dokumentation)
 
 
 # Testfälle
+
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
+
 | Nr.1 | Bentuzer hat Programm geöffnet | Einfügen URL | Speichern der URL | 	
-...				
-4				
+
+| Nr.2 | Benutzer hat programm geöffnet | URL eingefügt |  Verkürzte Version des URL ausgegeben |
+
+| Nr.3 | Benutzer hat verkürzte URL | Eingabe verkürzter URL | Nach original URL suchen |
+
+| Nr.4 | Benutzer hat verkürzte URL | EIngabe verkürzter URL | Ausgabe Original URL |
+
+
+	
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
