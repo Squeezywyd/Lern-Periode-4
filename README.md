@@ -12,12 +12,18 @@ Heute habe ich mir überlegt was ich für ein Projekt in den nächsten 7 Wochen 
 Nach dem Planen habe ich jedoch für das Modul 164 an unserem LB gearbeitet. Da müssen wir Tabellen in SQL programmieren.
 
 27.2.2024
-[ ] Recherche was ich alles benötige um meinen URL-Verkürzer vorzubereiten (evt nuget pakete downloaden?)
-[ ] Planen was alles im Code vorhanden sein muss.
-[ ] Anfangen mit den ersten Zeilen von Code
-[ ] An meinem Modul 164 LB weiterarbeiten (Dokumentation)
+[] Nach ergänzungen Recherchieren wie ich meinen Code ggf mit GUI in WInforms erweitern kann.
+
+[] Planen was alles im Code vorhanden sein muss.
+
+[] Anfangen mit den ersten Zeilen von Code - Ziel, Benutzeringabe(URL) entgegennehmen können
+
+[] An meinem Modul 164 LB weiterarbeiten (Dokumentation)
+
+
+# Testfälle
 Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
-1				
+| Nr.1 | Bentuzer hat Programm geöffnet | Einfügen URL | Speichern der URL | 	
 ...				
 4				
 ✍️ Heute habe ich... (50-100 Wörter)
