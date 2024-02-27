@@ -38,11 +38,23 @@ Nach dem Planen habe ich jedoch für das Modul 164 an unserem LB gearbeitet. Da 
 
 
 # Reflexion
-Heute habe ich angefangen eine passende API zu finden. Ich habe eine mögloche API von Herrn Colic erhalten, aber da
+Heute habe ich angefangen eine passende API zu finden. Ich habe eine mögloche API von Herrn Colic erhalten, aber habe schlussendlich eine andere gefunden. Niclas, Mert und ich machen alle ein Projekt, welches eine API beinhaltet und dafür haben wir eine Seite gefunden welche "Rapidapi" heisst ( https://rapidapi.com/hub ). Auf dieser Website, kann man nach beliebigen API's suchen und erhält anschliessend Zugriff auf einen API-Key nachdem man ein Abonnement abgeschlossen hat. Anschliessend habe ich von dort auch eine Vorlage für einen möglichen Code erhalten welche ich gleich verwenden konnte. 
+Anschliessend habe ich jedoch nur noch an unserer SQL-LB gearbeitet da morgen die Abgabe dafür ist.
+
+
+
+## 5.03.2024 
+
+# Arbeitspakete
+
+- [ ] Die Vorlage so abändern das ich eine selbst bestimmte Ausgabe von meinem URL bekomme.
+- [ ]
+- [ ]
+- [ ] 
+
 
 
 	
-✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
