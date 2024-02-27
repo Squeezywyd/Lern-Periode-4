@@ -48,11 +48,15 @@ Anschliessend habe ich jedoch nur noch an unserer SQL-LB gearbeitet da morgen di
 # Arbeitspakete
 
 - [ ] Die Vorlage so abändern das ich eine selbst bestimmte Ausgabe von meinem URL bekomme.
-- [ ]
-- [ ]
-- [ ] 
+- [ ] Code mit GUI in Winforms erweitern
+- [ ] Exceptions implementieren ( Ungültige Eingabe falls keine URL eingegeben wurde.
+- [ ] Die URL in der Konsole eingeben können statt immer im Code ändern zu müssen. 
 
-
+# Testfälle
+- [ ] Ausgabe des URL ist eine selber gewählte verkürzte Ausgabe
+- [ ] Benutzer hat Namen der Seite statt URL eingegeben -> Ungültige Eingabe
+- [ ] Ungültige Eingabe -> Erneut nach URL abfragen
+- [ ] Konsole wurde geöffnet -> Benutzer wird nach URL abgefragt.
 
 	
 
