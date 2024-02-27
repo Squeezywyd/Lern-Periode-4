@@ -24,15 +24,21 @@ Nach dem Planen habe ich jedoch für das Modul 164 an unserem LB gearbeitet. Da 
 
 # Testfälle
 
-Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
+| Testfall-Nummer |	Ausgangslage (Given) |	Eingabe (When) |	Ausgabe (Then)	| Erfüllt?|
 
-| Nr.1 | Bentuzer hat Programm geöffnet | Einfügen URL | Speichern der URL | 	
+|-----------------|--------------------------|-----------------|------------------------|---------|
 
-| Nr.2 | Benutzer hat programm geöffnet | URL eingefügt |  Verkürzte Version des URL ausgegeben |
+| Nr.1 | Bentuzer hat Programm geöffnet | Einfügen URL | Speichern der URL | Erfüllt | 	
 
-| Nr.3 | Benutzer hat verkürzte URL | Eingabe verkürzter URL | Nach original URL suchen |
+| Nr.2 | Benutzer hat programm geöffnet | URL eingefügt |  Verkürzte Version des URL ausgegeben | Erfüllt |
 
-| Nr.4 | Benutzer hat verkürzte URL | EIngabe verkürzter URL | Ausgabe Original URL |
+| Nr.3 | Benutzer hat verkürzte URL | Eingabe verkürzter URL | Nach original URL suchen | Nicht erfüllt |
+
+| Nr.4 | Benutzer hat verkürzte URL | EIngabe verkürzter URL | Ausgabe Original URL | Nicht erfüllt | 
+
+
+# Reflexion
+Heute habe ich angefangen eine passende API zu finden. Ich habe eine mögloche API von Herrn Colic erhalten, aber da
 
 
 	
