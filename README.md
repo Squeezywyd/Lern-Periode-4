@@ -26,7 +26,7 @@ Nach dem Planen habe ich jedoch für das Modul 164 an unserem LB gearbeitet. Da 
 
 | Testfall-Nummer |	Ausgangslage (Given) |	Eingabe (When) |	Ausgabe (Then)	| Erfüllt?|
 
-|-----------------|--------------------------|-----------------|------------------------|---------|
+| ----------------- | -------------------------- | ----------------- | ------------------------ | --------- |
 
 | Nr.1 | Bentuzer hat Programm geöffnet | Einfügen URL | Speichern der URL | Erfüllt | 	
 
