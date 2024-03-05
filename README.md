@@ -72,6 +72,13 @@ Heute habe ich sehr erfolgreich arbeiten können. Ich habe zuerst noch den übri
 - [ ] Ausgabe des verkürzten URL anpassen dass man den URL kopieren kann. (Evt einen Knopf implementieren welcher automatisch den verkürzten URL kopiert und in die Zwischenablage speichert.)
 - [ ] Erneut versuchen den verkürzten Link selbst benennen zu können.
 
+
+# Testfälle
+
+- [ ] Applikation wird ausgeführt. - Winforms Applikation wird farbig angezeigt.
+- [ ] Applikation öffnet sich nur einmal und schliesst sich nachdem man das x antippt.
+- [ ] URL wurde eingegeben. - verkürzter URL kann per Knopf kopiert werden.
+- [ ] URL wurde eingegeben. - AUsgabe kann bestimmt werden.
 	
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
