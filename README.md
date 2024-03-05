@@ -15,11 +15,11 @@ Nach dem Planen habe ich jedoch für das Modul 164 an unserem LB gearbeitet. Da 
 
 - [ ] Nach ergänzungen Recherchieren wie ich meinen Code ggf mit GUI in WInforms erweitern kann.
 
-- [ ] Planen was alles im Code vorhanden sein muss.
+- [X] Planen was alles im Code vorhanden sein muss.
 
-- [ ] Anfangen mit den ersten Zeilen von Code - Ziel, Benutzeringabe(URL) entgegennehmen können
+- [X] Anfangen mit den ersten Zeilen von Code - Ziel, Benutzeringabe(URL) entgegennehmen können
 
-- [ ] An meinem Modul 164 LB weiterarbeiten (Dokumentation)
+- [X] An meinem Modul 164 LB weiterarbeiten (Dokumentation)
 
 
 # Testfälle
@@ -48,15 +48,18 @@ Anschliessend habe ich jedoch nur noch an unserer SQL-LB gearbeitet da morgen di
 # Arbeitspakete
 
 - [ ] Die Vorlage so abändern das ich eine selbst bestimmte Ausgabe von meinem URL bekomme.
-- [ ] Code mit GUI in Winforms erweitern
-- [ ] Exceptions implementieren ( Ungültige Eingabe falls keine URL eingegeben wurde.
-- [ ] Die URL in der Konsole eingeben können statt immer im Code ändern zu müssen. 
+- [X] Code mit GUI in Winforms erweitern
+- [X] Exceptions implementieren ( Ungültige Eingabe falls keine URL eingegeben wurde.
+- [X] Die URL in der Konsole eingeben können statt immer im Code ändern zu müssen. 
 
 # Testfälle
 - [ ] Ausgabe des URL ist eine selber gewählte verkürzte Ausgabe
-- [ ] Benutzer hat Namen der Seite statt URL eingegeben -> Ungültige Eingabe
-- [ ] Ungültige Eingabe -> Erneut nach URL abfragen
-- [ ] Konsole wurde geöffnet -> Benutzer wird nach URL abgefragt.
+- [X] Benutzer hat Namen der Seite statt URL eingegeben -> Ungültige Eingabe
+- [X] Ungültige Eingabe -> Erneut nach URL abfragen
+- [X] Konsole wurde geöffnet -> Benutzer wird nach URL abgefragt.
+
+
+Heute habe ich sehr erfolgreich arbeiten können. Ich habe zuerst noch den übrigen Auftrag LA_0705 aus dem Modul 187 von gestern nachgeholt. Dann habe ich meinen Code noch weitergeschrieben und zwar habe ich exceptionsch eingefügt falls etwas anderes als eine URL eingegeben wurde. Das ganze hat erfolgreich funktioniert und man wird nun erneut abgefragt falls die Eingabe ungültig war. Anschliessend habe ich mich informiert, wie ich meinen Code als GUI in Winforms implementieren kann. Was ich auch noch gemacht habe, ist dass ich den Code so abgeändert habe, dass der Benutzer nach öffnen der Konsole bzw nun der Winforms Applikation, nach dem URL gefragt wird und dies nicht im Code vorgenommen werden muss. Ich habe also nun eine Winforms Applikation welche nach öffnen den Benutzer nach einer URl fragt, und diese anschliessend verkürzt wieder ausgegeben wird.
 
 	
 
