@@ -61,9 +61,20 @@ Anschliessend habe ich jedoch nur noch an unserer SQL-LB gearbeitet da morgen di
 
 Heute habe ich sehr erfolgreich arbeiten können. Ich habe zuerst noch den übrigen Auftrag LA_0705 aus dem Modul 187 von gestern nachgeholt. Dann habe ich meinen Code noch weitergeschrieben und zwar habe ich exceptionsch eingefügt falls etwas anderes als eine URL eingegeben wurde. Das ganze hat erfolgreich funktioniert und man wird nun erneut abgefragt falls die Eingabe ungültig war. Anschliessend habe ich mich informiert, wie ich meinen Code als GUI in Winforms implementieren kann. Was ich auch noch gemacht habe, ist dass ich den Code so abgeändert habe, dass der Benutzer nach öffnen der Konsole bzw nun der Winforms Applikation, nach dem URL gefragt wird und dies nicht im Code vorgenommen werden muss. Ich habe also nun eine Winforms Applikation welche nach öffnen den Benutzer nach einer URl fragt, und diese anschliessend verkürzt wieder ausgegeben wird.
 
+
+## 12.03.2024 
+
+
+# Arbeitspakete
+
+- [ ] Meine Winforms Applikation schöner aussehen lassen. (Evt Farbe oder so)
+- [ ] Code überarbeiten um immer erneutes öffnen zu verhindern (Fehlerbehebung)
+- [ ] Ausgabe des verkürzten URL anpassen dass man den URL kopieren kann. (Evt einen Knopf implementieren welcher automatisch den verkürzten URL kopiert und in die Zwischenablage speichert.)
+- [ ] Erneut versuchen den verkürzten Link selbst benennen zu können.
+
 	
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
-Reflexion
+Reflexiont
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
