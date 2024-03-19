@@ -105,4 +105,24 @@ dass man den URL kopieren kann aber das hat nicht wirklich funktioniert. Anschli
 - [ ] URL wurde eingegeben. - AUsgabe kann bestimmt werden.
 
 
+Heute habe ich versucht das Problem mit dem Schliessen der Applikation zu beheben. Ich habe viele verschiedene Dinge versucht und das ganze gemeinsam mit einem Schüler angeschaut, wie auch AI gefragt und verwendet und schlussendlich sogar noch mit der Lehrperson besprochen. Wie sich jedoch herausgestellt hat, hat das ganze nicht ganz so gut funktioniert. Deshalb habe ich mich mit der Lehrperson darauf geeinigt, dass ich das ganze in einer Form hinzufüge. Also versuche ich mich zu informieren wie ich die Buttons etc im Form-Fenster selbst einfügen kann.
+
+
+## 26.02.2024
+
+# Arbeitspakete
+
+- [ ] Meine Winforms Applikation per Fenster implementieren und nicht mit Code.
+- [ ] Den vekürzten Link durch einen "Copy" Button kopieren können.
+- [ ] Für das Modul 187 den AUftrag LA_187_0707 & 0710 nacharbeiten
+- [ ] Modul 106 Aufträge nacharbeiten
+
+# Testfälle
+
+| Testfallnummer | Ausgangslage | Eingabe | Ausgabe | Erfüllt |
+| -------------- | ------------ | ------- | ------- | ------- |
+| 1 | Programm wurde geöffnet | "X" zum schliessen | Programm wird geschlossen |  |
+| 2 | URL wurde eingegeben | Eingabe des URL | Vekürzter URL + Copy Button |   |
+
+
 
