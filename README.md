@@ -83,5 +83,26 @@ Heute habe ich sehr erfolgreich arbeiten können. Ich habe zuerst noch den übri
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
-Reflexiont
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+Heute habe ich leider nicht wirklich an meinen geplanten Arbeitspaketen arbeiten können. Ich habe kurz versucht gehabt, das ganze zu korrigieren und überarbeiten 
+dass man den URL kopieren kann aber das hat nicht wirklich funktioniert. Anschliessend habe ich eigentlich nurnoch für das Modul 187 und das Modul 106 gearbeitet, da ich in diesen Modulen noch Aufträge nacharbeiten musste. Im Modul 106 haben wir momentan SQL und da lernen wir gerade wie man Joins verwendet.
+
+
+## 19.03.2024
+
+# Arbeitspakete
+
+- [ ] Meine Winforms Applikation schöner aussehen lassen. (Evt Farbe oder so)
+- [ ] Code überarbeiten um immer erneutes öffnen zu verhindern (Fehlerbehebung)
+- [ ] Ausgabe des verkürzten URL anpassen dass man den URL kopieren kann. (Evt einen Knopf implementieren welcher automatisch den verkürzten URL kopiert und in die Zwischenablage speichert.)
+- [ ] Erneut versuchen den verkürzten Link selbst benennen zu können.
+
+
+# Testfälle
+
+- [ ] Applikation wird ausgeführt. - Winforms Applikation wird farbig angezeigt.
+- [ ] Applikation öffnet sich nur einmal und schliesst sich nachdem man das x antippt.
+- [ ] URL wurde eingegeben. - verkürzter URL kann per Knopf kopiert werden.
+- [ ] URL wurde eingegeben. - AUsgabe kann bestimmt werden.
+
+
+
