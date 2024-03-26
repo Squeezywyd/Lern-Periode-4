@@ -115,7 +115,7 @@ Heute habe ich versucht das Problem mit dem Schliessen der Applikation zu behebe
 - [ ] Meine Winforms Applikation per Fenster implementieren und nicht mit Code.
 - [ ] Den vekürzten Link durch einen "Copy" Button kopieren können.
 - [ ] Für das Modul 187 den AUftrag LA_187_0707 & 0710 nacharbeiten
-- [ ] Modul 106 Aufträge nacharbeiten
+- [ ] Modul 106 Aufträge nacharbeiten ( 2408 & 2410 )
 
 # Testfälle
 
