@@ -114,8 +114,8 @@ Heute habe ich versucht das Problem mit dem Schliessen der Applikation zu behebe
 
 - [ ] Meine Winforms Applikation per Fenster implementieren und nicht mit Code.
 - [ ] Den vekürzten Link durch einen "Copy" Button kopieren können.
-- [ ] Für das Modul 187 den AUftrag LA_187_0707 & 0710 nacharbeiten
-- [ ] Modul 106 Aufträge nacharbeiten ( 2408 & 2410 )
+- [x] Für das Modul 187 den AUftrag LA_187_0707 & 0710 nacharbeiten
+- [x] Modul 106 Aufträge nacharbeiten ( 2408 & 2410 )
 
 # Testfälle
 
@@ -123,6 +123,27 @@ Heute habe ich versucht das Problem mit dem Schliessen der Applikation zu behebe
 | -------------- | ------------ | ------- | ------- | ------- |
 | 1 | Programm wurde geöffnet | "X" zum schliessen | Programm wird geschlossen |  |
 | 2 | URL wurde eingegeben | Eingabe des URL | Vekürzter URL + Copy Button |   |
+
+
+
+Heute habe ich versucht an meinem Winforms codo weiterzuarbeiten. Jedoch hatte ich die ganze Zeit Probleme und Fehlermeldungen welche ich selbst nicht wusste wie das zu beheben war. Mir fiel es deshalb sehr schwer, in meinem Winforms meine gewünschten Dinge umzusetzen weshalb ich beschlossen habe, mit dem ganzen bei einer Konsolen-Applikation zu bleiben. Ich habe dafür die Konsolen-Applikation etwas ausgebaut und habe exceptions eingefügt welche dem Benutzer beispielsweise sagt dass die eingegebene URL ungültig ist und den Benutzer anschliessend auffordert eine gültige URL einzugeben. Ebenfalls konnte ich die vorgenommenen Aufträge aus dem Modul 187 und dem Modul 106 nacharbeiten.
+
+
+## 02.04.2024
+
+
+# Arbeitspakete
+
+-  [ ] Meine Exceptions überarbeiten und Benutzer solange abfragen bis Eingabe gültig war.
+-  [ ] Meinen Code verschönern und fertigstellen.
+-  [ ] Für das Modul 106 arbeiten (Joins verinnerlichen)
+
+# Testfälle
+
+| Testfallnummer | Ausgangslage | Eingabe | Ausgabe | Erfüllt |
+| -------------- | ------------ | ------- | ------- | ------- |
+| 1 | Programm wurde geöffnet | Ungültige URL wurde eingegeben. | Benutzer wird nach gültiger URL gefragt. |  |
+| 2 | URL wurde eingegeben | Eingabe des URL | Vekürzter URL |   |
 
 
 
