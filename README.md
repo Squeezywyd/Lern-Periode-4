@@ -156,6 +156,14 @@ Ich habe jedoch meinen Code überarbeiten und schöner darstellen können wie au
 
 ## Reflexion
 
+Ich finde ich konnte relativ gut in dieser LP arbeiten. Ich hatte ein eher kleineres Projekt weil ich mir nebenbei auch noch viel Zeit genommen habe, um andere Aufträge ais andetren Modulen zu bearbeiten. Ich bin währen der Implementierung meines Projekts auf viele Hindernisse gestossen und ihc konnte manche überweinden manche waren jedoch zu anspruchsvoll für mein Niveau. Ich habe während dieser Lp viel dazu gelernt. Zum einen habe ich meine C# Kenntnisse gut erweiter können jedoch habe ich mich auch in Sachen wie Zeitmanagement oder Planung verbessert meiner Meinung nach.
+Grundsätzlich bin ich relativ zufrieden mit meiner Arbeit in dieser LP.
+
+Mir persönlich hat die letzte LP besser gefallen. Da ich dort mehr Zeit hatte um an meinem Projekt zu arbeiten. Jedoch war meiner Meinung nach die Länge dieser LP ebenso völlig optimal um nebenbei auch noch für andere Module zu arbeiten. Deshalb würde ich sagen könnte man zukünftig durchaus weiterhin LP's in dieser Länge machen.
+Ich versuche jedoch nächstes Mal mehr an einem Programmierprojekt zu arbeiten und evt im Modul-Unterricht etwas Produktiver dass ich nicht so viel nachholen muss.
+
+
+
 
 
 
