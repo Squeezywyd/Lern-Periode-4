@@ -135,15 +135,27 @@ Heute habe ich versucht an meinem Winforms codo weiterzuarbeiten. Jedoch hatte i
 # Arbeitspakete
 
 -  [ ] Meine Exceptions überarbeiten und Benutzer solange abfragen bis Eingabe gültig war.
--  [ ] Meinen Code verschönern und fertigstellen.
--  [ ] Für das Modul 106 arbeiten (Joins verinnerlichen)
+-  [x] Meinen Code verschönern und fertigstellen.
+-  [x] Für das Modul 106 arbeiten (Joins verinnerlichen)
 
 # Testfälle
 
 | Testfallnummer | Ausgangslage | Eingabe | Ausgabe | Erfüllt |
 | -------------- | ------------ | ------- | ------- | ------- |
-| 1 | Programm wurde geöffnet | Ungültige URL wurde eingegeben. | Benutzer wird nach gültiger URL gefragt. |  |
-| 2 | URL wurde eingegeben | Eingabe des URL | Vekürzter URL |   |
+| 1 | Programm wurde geöffnet | Ungültige URL wurde eingegeben. | Benutzer wird nach gültiger URL gefragt. | nicht erfüllt |
+| 2 | URL wurde eingegeben | Eingabe des URL | Vekürzter URL | erfüllt  |
+
+
+Heute habe ich versucht meine Exceptions zu überarbeiten in dem es den Benutzer solange nach einer gültigen URL fragt bis dies passiert. Jedoch hat das ganze nicht ganz so geklappt wie ich es mir vorgestellt habe und es wurde relativ kompliziert. Deshalb konnte ich dieses Arbeitspaket nicht erfüllen.
+Ich habe jedoch meinen Code überarbeiten und schöner darstellen können wie auch weitere Aufträge im Modul 106 bearbeiten können.
+
+
+
+
+
+
+## Reflexion
+
 
 
 
